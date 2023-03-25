@@ -1,0 +1,9 @@
+.image-container {
+  display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.flickr-image:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
